@@ -17,7 +17,7 @@ struct ContentView: View {
         }
         .padding()
         .onAppear {
-            print("Analytics starts working")
+            print("Analytics starts working again")
         }
     }
 }
